@@ -1,0 +1,5 @@
+[2026-09-26 22:57:28] Database Connection Error: SQLSTATE[HY000] [1049] Unknown database 'db_produk_manager' in C:\xampp\htdocs\Project_produk_manager\config\database.php:30
+[2026-09-27 16:32:19] Database Connection Error: SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it in C:\xampp\htdocs\Project_produk_manager\config\database.php:30
+[2026-09-27 16:32:26] Database Connection Error: SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it in C:\xampp\htdocs\Project_produk_manager\config\database.php:30
+[2026-09-27 16:32:34] Database Connection Error: SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it in C:\xampp\htdocs\Project_produk_manager\config\database.php:30
+[2026-09-27 16:33:53] Database Connection Error: SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it in C:\xampp\htdocs\Project_produk_manager\config\database.php:30
